@@ -1,0 +1,10 @@
+.botao_fofo{
+    background-color: whitesmoke;
+    color: black;
+    border: none;
+    cursor: pointer
+}
+.botao_fofo:hover{
+    background-color: black;
+    color: white;
+}

@@ -1,6 +1,6 @@
 import json
 def main():
-    arquive = open("/home/ryan/Documentos/Teste CPF's/cpf_list.json", 'r+')
+    arquive = open("/home/ryan/projetinhos/Teste CPF's/cpf_list.json", 'r+')
     cpf_list = json.load(arquive)
     
     
